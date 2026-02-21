@@ -60,7 +60,7 @@ links:
 
 # Messaging Etiquette. You can add new rules as per your needs.
 messaging:
-  title: "Messaging Etiquette"
+  title: "Attention"
   items:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
@@ -81,13 +81,13 @@ messaging:
 
 # About section (optional section)
 
-# about:
-#   title: "About Me"
-#   sections:
-#     - heading: "Professional Background"
-#       content: "I'm a full-stack developer with 5+ years of experience building web applications. Specialized in JavaScript frameworks and cloud architecture."
-#     # - heading: "Current Focus"
-#     #   content: "Currently working on open-source tools to improve developer productivity and accessibility in web development."
-#     # - heading: "Personal Interests"
-#     #   content: "When not coding, I enjoy photography, hiking, and contributing to local tech communities through mentorship programs."
+about:
+  title: "Sobre mí / About Me"
+  sections:
+    - heading: "Guía Holística y Terapeuta Akáshika"
+      content: "Acompañamiento espiritual consciente orientado a vivir en amor, paz  y coherencia."
+    # - heading: "Current Focus"
+    #   content: "Currently working on open-source tools to improve developer productivity and accessibility in web development."
+    # - heading: "Personal Interests"
+    #   content: "When not coding, I enjoy photography, hiking, and contributing to local tech communities through mentorship programs."
 ---
