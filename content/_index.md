@@ -4,7 +4,7 @@ title: "Celynova"
 # Profile settings
 profileImage: "images/avatar.jpg"        # path under static/
 name: "Celynova"
-description: "Guía holística y terapeuta akáshika"
+description: "Guía Holística y Terapeuta Akáshika"
 
 # Link cards
 links:
