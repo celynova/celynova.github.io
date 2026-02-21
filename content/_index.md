@@ -40,13 +40,13 @@ messaging:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
       text: >
-        Después de hacer la reserva online, me pondré en contacto para concretar los detalles.
+        Después de la reserva online, me pondré en contacto para concretar los detalles.
         After the booking, I will get in contact with you to discuss the details.
     - icon: "fas fa-check-circle"
       color: "text-green-400"
       text: >
-        Se tiene que confirmar el pago para confirmar la reserva.
-        Payment should be sent for the booking to be confirmed.
+        Se tiene que proceder con el pago para que quede confirmada la cita.
+        Payment needs to be made in order to lock in the booking.
     # - icon: "fas fa-check-circle"
     #   color: "text-green-400"
     #   text: "I typically respond within 2-3 business days for professional inquiries."
