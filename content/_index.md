@@ -39,12 +39,12 @@ messaging:
   items:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
-      text: |
+      text: >
         Después de la reserva online, me pondré en contacto para concretar los detalles.
         After the booking, I will get in contact with you to discuss the details.
     - icon: "fas fa-check-circle"
       color: "text-green-400"
-      text: |
+      text: >
         Se tiene que proceder con el pago para que quede confirmada la cita.
         Payment needs to be made in order to lock in the booking.
     # - icon: "fas fa-check-circle"
