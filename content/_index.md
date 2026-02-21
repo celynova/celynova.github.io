@@ -26,7 +26,7 @@ links:
     title: "Instagram"
     description: ""
 
-  - href: "https://wa.me/34681927360?utm_medium=social&utm_source=linktree&utm_campaign=message+on+whatsapp"
+  - href: "https://wa.me/34681927360"
     icon: "fab fa-whatsapp"
     title: "WhatsApp"
     description: "Explore my open-source projects"
