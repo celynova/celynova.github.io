@@ -29,7 +29,7 @@ links:
   - href: "https://wa.me/34681927360"
     icon: "fab fa-whatsapp"
     title: "WhatsApp"
-    description: "Explore my open-source projects"
+    description: ""
 
   - href: "mailto:celyne@celynova.es"
     icon: "fas fa-envelope"
