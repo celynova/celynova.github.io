@@ -37,7 +37,7 @@ links:
     description: "Send me an email"
 
   - href: "https://ko-fi.com/celynova"
-    icon: "fab fa-euro"
+    icon: "fas fa-euro"
     title: "Enviar apoyo"
     description: "Support me"
 
