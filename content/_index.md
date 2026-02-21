@@ -28,10 +28,10 @@ links:
     title: "Envíame un correo"
     description: "Send me an email"
 
-  - href: "https://ko-fi.com/celynova"
-    icon: "fas fa-euro"
-    title: "Enviar apoyo"
-    description: "Support me"
+#  - href: "https://ko-fi.com/celynova"
+#    icon: "fas fa-euro"
+#    title: "Enviar apoyo"
+#    description: "Support me"
 
 # Messaging Etiquette. You can add new rules as per your needs.
 messaging:
