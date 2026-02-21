@@ -60,7 +60,7 @@ links:
 
 # Messaging Etiquette. You can add new rules as per your needs.
 messaging:
-  title: "Attention"
+  title: "Aviso / Notice"
   items:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
@@ -85,9 +85,7 @@ about:
   title: "Sobre mí / About Me"
   sections:
     - heading: "Guía Holística y Terapeuta Akáshika"
-      content: "Acompañamiento espiritual consciente orientado a vivir en amor, paz  y coherencia."
-    # - heading: "Current Focus"
-    #   content: "Currently working on open-source tools to improve developer productivity and accessibility in web development."
-    # - heading: "Personal Interests"
-    #   content: "When not coding, I enjoy photography, hiking, and contributing to local tech communities through mentorship programs."
+      content: "Acompañamiento espiritual consciente orientado a vivir en amor, paz y coherencia. Online, y presencial en Barcelona."
+    - heading: "Holistic Guide and Akashic Therapist"
+      content: "Conscious spiritual coaching focused on living in love, peace, and harmony. Available online and in-person in Barcelona."
 ---
