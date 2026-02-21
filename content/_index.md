@@ -39,15 +39,14 @@ messaging:
   items:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
-      text: "test"
-    # text: >
-    #     Después de hacer la reserva online, me pondré en contacto para concretar los detalles.
-    #     After the booking, I will get in contact with you to discuss the details.
-    # - icon: "fas fa-check-circle"
-    #   color: "text-green-400"
-    #   text: >
-    #     Se tiene que confirmar el pago para confirmar la reserva.
-    #     Payment should be sent for the booking to be confirmed.
+      text: >
+        Después de hacer la reserva online, me pondré en contacto para concretar los detalles.
+        After the booking, I will get in contact with you to discuss the details.
+    - icon: "fas fa-check-circle"
+      color: "text-green-400"
+      text: >
+        Se tiene que confirmar el pago para confirmar la reserva.
+        Payment should be sent for the booking to be confirmed.
     # - icon: "fas fa-check-circle"
     #   color: "text-green-400"
     #   text: "I typically respond within 2-3 business days for professional inquiries."
