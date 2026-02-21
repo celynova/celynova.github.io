@@ -1,0 +1,12 @@
+baseURL = "https://celynova.es/"
+languageCode = "es-es"
+title = "Celynova"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+  description     = "Guía holística y terapeuta akáshika"
+  googleAnalytics = "G-8EBF7WVED9"    # your GA ID, if any
+
+[outputs]
+  home = ["HTML"]
