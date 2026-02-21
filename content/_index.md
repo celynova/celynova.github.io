@@ -25,8 +25,8 @@ links:
 
   - href: "mailto:celyne@celynova.es"
     icon: "fas fa-envelope"
-    title: "Envíame un correo"
-    description: "Send me an email"
+    title: "Email"
+    description: ""
 
 #  - href: "https://ko-fi.com/celynova"
 #    icon: "fas fa-euro"
