@@ -4,26 +4,28 @@ title: "Celynova"
 profileImage: "images/avatar.jpg"        # path under static/
 name: "Celynova"
 description: "Guía holística y terapeuta akáshika"
-socials:
-  - url: "https://instagram.com/celynova.es"
-    icon: "fab fa-instagram"
-  - url: "https://wa.me/34681927360"
-    icon: "fab fa-whatsapp"
-  - url: "mailto:celyne@celynova.es"
-    icon: "fab fa-at"
+# socials:
+#   - url: "https://instagram.com/celynova.es"
+#     icon: "fab fa-instagram"
+#   - url: "https://wa.me/34681927360"
+#     icon: "fab fa-whatsapp"
+#   - url: "mailto:celyne@celynova.es"
+#     icon: "fab fa-at"
 
 # You can add as many links as you want!
 
 # Link cards
 links:
-  - href: "https://your.site"
-    icon: "fas fa-globe"
-    title: "Personal Website"
-    description: "Check out my portfolio"
-  - href: "https://blog.your.site"
-    icon: "fas fa-blog"
-    title: "My Blog"
-    description: "Read my latest articles"
+  - href: "https://calendly.com/celynova"
+    icon: "fas fa-calendar"
+    title: "Reservar cita "
+    description: "Book an appointment"
+
+  - href: "https://instagram.com/celynova.es"
+    icon: "fas fa-instagram"
+    title: "Instagram"
+    description: ""
+
   - href: "https://github.com/you"
     icon: "fab fa-github"
     title: "GitHub"
