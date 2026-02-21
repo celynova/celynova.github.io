@@ -18,7 +18,7 @@ description: "Guía holística y terapeuta akáshika"
 links:
   - href: "https://calendly.com/celynova"
     icon: "fas fa-calendar"
-    title: "Reservar cita "
+    title: "Reservar cita"
     description: "Book an appointment"
 
   - href: "https://instagram.com/celynova.es"
